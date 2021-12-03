@@ -114,7 +114,6 @@ body {
 
 
 /*slideshow*/
-
 .slidershow {
   width: 700px;
   height: 400px;
@@ -123,7 +122,7 @@ body {
 }
 .middle{ /*position of slideshows*/
   position: absolute;
-  top: 70%; /*up or down*/
+  top: 75%; /*up or down*/
   left: 50%; /*right or left*/
   transform: translate(-50%,-50%);
 }
