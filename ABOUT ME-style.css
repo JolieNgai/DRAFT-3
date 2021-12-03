@@ -123,7 +123,7 @@ body {
 }
 .middle{ /*position of slideshows*/
   position: absolute;
-  top: -33%; /*up or down*/
+  top: -30%; /*up or down*/
   left: 50%; /*right or left*/
   transform: translate(-50%,-50%);
 }
