@@ -1,7 +1,7 @@
 /*text*/
 .text{
     width: 80%;
-    top: 10px;
+    top: 100px;
     bottom: 20px;
     margin: 0;
     text-align: center;
@@ -120,7 +120,7 @@ body {
 
 .slidershow {
   width: 700px;
-  height: 400px;
+  height: 200px;
   overflow: hidden;
   
 }
