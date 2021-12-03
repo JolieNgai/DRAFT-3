@@ -6,7 +6,6 @@
     margin: 0;
     text-align: center;
     padding: 0;
-    font-family: 'Fjalla One', sans-serif;
     
 }
 
@@ -14,7 +13,6 @@ h1{
     font-size: 36px;
     font-weight: 600;
     top: 50px;
-    font-family: 'Fjalla One', sans-serif;
 
 }
 
@@ -24,7 +22,6 @@ p{
     font-weight: 300;
     line-height: 22px;
     padding: 10px;
-    
 }
 
 .row{
@@ -126,7 +123,7 @@ body {
 }
 .middle{ /*position of slideshows*/
   position: absolute;
-  top: 40%; /*up or down*/
+  top: -10%; /*up or down*/
   left: 50%; /*right or left*/
   transform: translate(-50%,-50%);
 }
